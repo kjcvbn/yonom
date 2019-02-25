@@ -1,0 +1,23 @@
+{
+  "name": "yonom",
+  "version": "1.0.0",
+  "description": "scroll checker",
+  "main": "./dist/yonom.jquery.js",
+  "author": "eddy",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": ">=1.8.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0"
+  },
+  "keywords": [
+    "scroll",
+    "yonom",
+    "jquery",
+    "plugin"
+  ]
+}
